@@ -1,0 +1,76 @@
+a {
+  text-decoration: none;
+}
+
+body {
+ background-color: #0b132b;
+}
+
+nav {
+  min-height: 10vh;
+  padding: 8px !important;
+}
+
+.fw-bolder {
+  margin: 0 !important;
+}
+
+.text-login {
+  font-size: 1.7rem;
+  color: black;
+  transition: all 0.2s;
+}
+
+.text-login:hover {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.checkbox {
+  display: flex;
+  gap: 20px;
+}
+
+
+.card-input {
+  align-items: center;
+}
+
+
+#konten {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sivitas {
+  align-items: center;
+  justify-content: space-between;
+}
+
+input[type="search"] {
+  min-width: 34vw;
+}
+
+
+
+
+.fas {
+  font-size: 1.5rem;
+}
+
+@media only screen and (min-width: 992px) {
+  .konten {
+    width: 50vw;
+  }
+
+}
+@media only screen and (max-width: 768px) {
+  input[type="search"] {
+  width: 57vw;
+}
+
+}
+
+
