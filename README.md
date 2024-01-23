@@ -12,3 +12,7 @@ Fitur utama software Sistem Parkir berbasis web yang kami kembangkan adalah seba
 - Layout Dashboard yang sangat mudah digunakan untuk admin.
 - Pengaturan data kendaraan yang bisa dilakukan oleh admin, sudah menggunakan tampilan CRUD.
 
+LOGIN ADMIN
+
+- user : user@1
+- pass : user
